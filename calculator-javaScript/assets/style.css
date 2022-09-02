@@ -1,9 +1,4 @@
-@media screen and (max-width: 513px){
-  .button {
-    padding: 10px;
-  }
 
-}
 
 * {
    box-sizing: border-box;
@@ -70,4 +65,10 @@ background: orange;
   border-radius: 5px;
   padding: 30px;
   margin-top: 20px;
+}
+@media screen and (max-width: 513px){
+  .button {
+    padding: 10px;
+  }
+
 }
